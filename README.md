@@ -8,7 +8,7 @@ This repository contains all the materials I used during the course **Artificial
 
 The purpose of this repository is to serve as a helpful resource for:  
 - Students planning to take this course in future semesters.  
-- Enthusiasts looking to explore **Graph Traversal& AI Algorithms,Options & Futures,Game Theory and Auctions**.  
+- Enthusiasts looking to explore **Graph Traversal & AI Algorithms,Options & Futures,Game Theory and Auctions**.  
 
 Feel free to explore, learn, and contribute! 🚀  
 
